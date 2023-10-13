@@ -1,0 +1,10 @@
+{
+  "id": "ITG_DEMO_PY",
+  "name": "ITG Demo Lab PY",
+  "description": "Initial release of complete sample room in python",
+  "disabled": false,
+  "provider": "python",
+  "scope": "",
+  "script": "index.py",
+  "envvars": {}
+}
