@@ -471,3 +471,4 @@ def handleSTBResponse(e):
 #################################
 dvMuse.online(handeleOnlineEvent)
 
+context.run(globals())
